@@ -1,2 +1,3 @@
 // require('./request')
-require('./upload')
+// require('./upload')
+require('./eventSource')
