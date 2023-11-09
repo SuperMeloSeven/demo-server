@@ -1,3 +1,4 @@
 // require('./request')
 // require('./upload')
-require('./eventSource')
+// require('./eventSource')
+require('./downloadChunked')
